@@ -1,12 +1,12 @@
 # play-template
 a toy to play with play framework
 
-## See the official [documentation](https://www.playframework.com/documentation/2.4.x/NewApplication)
 
 ## dependencies
 
-*   play    2.4.4
+*   play    2.4.6
 *   scala   2.11.6+
 *   java    8
 
-See more information about dependencies: [1](https://www.playframework.com/documentation/2.4.x/Migration24)
+1. [activator](http://www.typesafe.com/activator/docs) can be a template system, with `activator new` we can easily create a play web server as our start point.
+
